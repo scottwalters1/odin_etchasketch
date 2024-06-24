@@ -1,0 +1,16 @@
+/* div {
+    margin: 20px;
+} */
+
+.gridrow {
+    display: flex;
+}
+
+.gridcell {
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+#gridcontainer {
+    size: 960px;
+}
